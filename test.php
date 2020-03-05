@@ -1,30 +1,8 @@
-<?
-// Convert Variable Array To Variable
- 
-while(list($xVarName, $xVarvalue) = each($_GET)) {
-     ${$xVarName} = $xVarvalue;
-}
- 
- 
-while(list($xVarName, $xVarvalue) = each($_POST)) {
-     ${$xVarName} = $xVarvalue;
-}
- 
-while(list($xVarName, $xVarvalue) = each($_FILES)) {
-     ${$xVarName."_name"} = $xVarvalue['name'];
-     ${$xVarName."_type"} = $xVarvalue['type'];
-     ${$xVarName."_size"} = $xVarvalue['size'];
-     ${$xVarName."_error"} = $xVarvalue['error'];
-     ${$xVarName} = $xVarvalue['tmp_name'];
-}
-?>
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
-
 </head>
 
 <body>
