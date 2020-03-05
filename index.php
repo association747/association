@@ -114,20 +114,6 @@ body {
     </p>
   </div>
 </form>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<table width="1338" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td height="72" align="center" bgcolor="#202060" style="color: #FFF; font-size: 22px; font-family: BrowalliaUPC;">สมาคมคนพิการทางการเคลื่อนไหวจังหวัดอุทัยธานี เลขที่ 68 ม.4 ต.เกาะเทโพ อ.เมือง จ.อุทัยธานี 61000 <br>
-    Tel.056-510606 , 097-9311146 (นายกสมาคม)<br />
-    พัฒนาโดย นายอำพล เกตุพงษ์</td>
-  </tr>
-</table>
 </body>
 </html>
 

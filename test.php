@@ -6,27 +6,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
 
-<style type="text/css">
-body {
-	background-color: #C3F;
-}
-body,td,th {
-	color: #FFF;
-}
-.ข้อมูลสมาชิกสมาคมคนพิการทางการเคลื่อนไหวจังหวัดอุทัยธาน {
-	font-family: "TH SarabunPSK";
-	font-size: 40px;
-	text-align: center;
-	color: #FFF;
-}
-</style>
 </head>
 
 <body>
-<p><span class="ข้อมูลสมาชิกสมาคมคนพิการทางการเคลื่อนไหวจังหวัดอุทัยธาน">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="pop.png" width="80" height="80" />&nbsp;ข้อมูลสมาชิกสมาคมคนพิการทางการเคลื่อนไหวจังหวัดอุทัยธานี</span><br />
-<br />
-</p>
+<p>&nbsp;</p>
 <table width="844" height="79" border="1" align="center">
   <tr>
     <td width="100" height="48" align="center">คำนำหน้า</td>
@@ -61,32 +44,6 @@ body,td,th {
  }
   ?>
 
-</table>
-<br />
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="wwwwwwww.png" width="185" height="50" usemap="#Map" border="0" />
-<map name="Map" id="Map">
-  <area shape="rect" coords="8,7,182,47" href="index.html" />
-</map>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-&nbsp;&nbsp;
-<table width="1338" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td height="72" align="center" bgcolor="#202060" style="color: #FFF; font-size: 22px; font-family: BrowalliaUPC;"><span style="">สมาคมคนพิการทางการเคลื่อนไหวจังหวัดอุทัยธานี เลขที่ 68 ม.4 ต.เกาะเทโพ อ.เมือง จ.อุทัยธานี 61000 <br>
-    Tel.056-510606 , 097-9311146 (นายกสมาคม)<br />
-    พัฒนาโดย นายอำพล เกตุพงษ์</span></td>
-  </tr>
 </table>
 </body>
 </html>
